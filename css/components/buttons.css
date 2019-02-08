@@ -1,0 +1,24 @@
+.btn-contact {
+  text-decoration: none;
+  font-size: 15px;
+  font-family: Montserrat;
+  padding: 15px;
+  border-radius: 50px;
+  background: #c0c0c4;
+  border: solid;
+  border-width: 1px;
+  border-color: #c0c0c4;
+  color: white;
+  font-weight: lighter;
+  position: relative;
+  top: 40px;
+}
+.btn-contact:hover {
+  padding: 15px;
+  border-radius: 50px;
+  background: #a9a9aa;
+  border-color: #a9a9aa;
+  color: white;
+  font-weight: lighter;
+  text-decoration: none;
+}

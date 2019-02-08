@@ -1,0 +1,29 @@
+.banner{
+  text-align: center;
+  background-image: url("https://images.pexels.com/photos/1036808/pexels-photo-1036808.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: cover;
+  padding: 100px;
+  background-position: center;
+  color: white;
+  box-shadow: 1px 1px 1px grey;
+  width: 100%;
+}
+.banner h1 {
+  color: #202020;
+  font-size: 50px;
+  text-shadow: 1px 1px 2px #bfbfbf;
+}
+.banner h2 {
+  color: grey;
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.banner p {
+  color: red;
+  opacity: 1px
+  font-size: 15px;
+  text-shadow: 1px 1px 1px grey;
+  font-weight: lighter;
+}

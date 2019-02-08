@@ -1,0 +1,15 @@
+.footer {
+  flex: 1;
+  width: 100%;
+  color: lightgrey;
+  padding: 20px 20px 20px 0;
+  background: rgb(30, 30, 30);
+  text-align: right;
+}
+.footer a {
+  color: grey;
+  font-size: 15px;
+}
+.footer a:hover {
+  color: white;
+}
